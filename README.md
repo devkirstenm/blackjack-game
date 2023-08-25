@@ -4,7 +4,7 @@ Welcome to Blackjack, the first game I've ever programmed! This game lets you pl
 ![Blackjack game Screenshot](./images/blackjack-game-screenshot.png)
 
 ## Play the Game 🎮
-Click [HERE](https://blackjack-by-devkirstenm.netlify.app) to play the Blackjack game now on Netlify.
+Click [HERE](https://blackjack-by-devkirstenm.netlify.app) to play the Blackjack game now!
 
 ## Technologies Used 💻
 - HTML
